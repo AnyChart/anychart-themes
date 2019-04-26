@@ -1,0 +1,28 @@
+{
+  "name": "anychart-themes",
+  "version": "2.0.0",
+  "description": "AnyChart Themes Collection",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AnyChart/anychart-themes.git"
+  },
+  "module": "index.es.js",
+  "scripts": {
+    "build": "node ./scripts/build.js",
+    "samples": "node ./scripts/generateSamples.js"
+  },
+  "keywords": [
+    "AnyChart",
+    "AnyChart Themes"
+  ],
+  "author": "AnyChart <contact@anychart.com> (https://anychart.com)",
+  "license": "SEE LICENSE IN <http://www.anychart.com/buy>",
+  "sideEffects": false,
+  "devDependencies": {
+    "dot": "1.1.2",
+    "google-closure-compiler": "20181125.0.1",
+    "prettier": "1.15.2",
+    "rollup": "0.67.3",
+    "tmp": "0.0.33"
+  }
+}

@@ -1,0 +1,16 @@
+export { default as coffee } from './src/coffee';
+export { default as darkBlue } from './src/darkBlue';
+export { default as darkEarth } from './src/darkEarth';
+export { default as darkGlamour } from './src/darkGlamour';
+export { default as darkProvence } from './src/darkProvence';
+export { default as darkTurquoise } from './src/darkTurquoise';
+export { default as lightBlue } from './src/lightBlue';
+export { default as lightEarth } from './src/lightEarth';
+export { default as lightGlamour } from './src/lightGlamour';
+export { default as lightProvence } from './src/lightProvence';
+export { default as lightTurquoise } from './src/lightTurquoise';
+export { default as monochrome } from './src/monochrome';
+export { default as morning } from './src/morning';
+export { default as pastel } from './src/pastel';
+export { default as sea } from './src/sea';
+export { default as wines } from './src/wines';
